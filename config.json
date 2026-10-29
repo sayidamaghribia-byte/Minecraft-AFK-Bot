@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "frostvailsmp.aternos.me",
+  "serverPort": 44556,
   "botUsername": "MyBot",
   "botChunk": 1
 }
